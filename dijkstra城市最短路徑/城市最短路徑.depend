@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1514045492 source:c:\users\admin\desktop\資料結構\城市最短路徑\main.c
+	<stdio.h>
+	<stdlib.h>
+

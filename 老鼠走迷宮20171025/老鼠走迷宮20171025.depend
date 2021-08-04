@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510561707 source:c:\users\admin\desktop\資料結構\老鼠走迷宮20171025\main.c
+	<stdio.h>
+	<stdlib.h>
+

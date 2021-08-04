@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510767560 source:c:\users\admin\desktop\資料結構\稀疏矩陣鏈結\main.c
+	<stdio.h>
+	<stdlib.h>
+
